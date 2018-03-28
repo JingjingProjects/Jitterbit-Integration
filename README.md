@@ -1,2 +1,2 @@
 # Jitterbit-Integration
-Jitterbit is a connector I used to integrate SFDC and NetSuite
+Jitterbit is a connector used to integrate SFDC and NetSuite
